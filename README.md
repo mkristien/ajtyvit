@@ -31,6 +31,6 @@ Po absolvovaní si budeš môcť vytvárať vlastné git projekty alebo spolupra
 ## O Lektorovi
 Martin študuje počítačovú vedu na Edinburghskej univerzite.
 Venuje sa hlavne nízko-úrovňovému systémovému programovaniu, ale zaujímajú ho aj oblasti dátovej vedy a umelej inteligencie.
-Popri štúdiu sa venuje vzdelávaniu, či už na univerzite alebo v rámci stredoškolských letných táborov [Akadémie Discover](https://discover.sk/).
+Popri štúdiu vyučuje, či už na univerzite alebo v rámci stredoškolských letných táborov [Akadémie Discover](https://discover.sk/).
 
 ![A test](profile.jpg)
