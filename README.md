@@ -1,5 +1,5 @@
 # AjTyvIT - Git workshop
-Materiál na GIT workshop.
+Materiál na GIT workshop. Vytvaram konflikt.
 
 ## Čo treba nainštalovať
 - [Git](https://www.atlassian.com/git/tutorials/install-git)
