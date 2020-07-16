@@ -6,8 +6,6 @@
 - do tohoto súboru nižšie vlož link k tvojmu novému osobnému súboru
 
 Tu sú odkazy na súbory účastničiek kurzu:
-- Link na súbor účastníčky [Martin](scripts/noname.md)
-- Link na súbor účastníčky [Zuzka](scripts/noname.md)
 
 
 ## Zadanie 2
