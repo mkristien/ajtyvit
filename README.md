@@ -4,6 +4,7 @@ Materiál na GIT workshop.
 ## Čo treba nainštalovať
 - [Git Kraken](https://www.gitkraken.com/)
     - vytvor si účet
+- vytvor si účet na [GitHub](https://github.com/)
 
 ## Popis workshopu
 Zaujíma ťa, ako programátorky spolupracujú na veľkých softvérových projektoch?
