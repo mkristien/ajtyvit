@@ -2,12 +2,8 @@
 Materiál na GIT workshop.
 
 ## Čo treba nainštalovať
-- [Git](https://www.atlassian.com/git/tutorials/install-git)
-  - program na spravovanie git projektov
-- [VisualStudioCode](https://code.visualstudio.com/)
-  - textový editor
-  - vizualizácia gitu
-  - nástroj na riešenie konfliktov v gite
+- [Git Kraken](https://www.gitkraken.com/)
+    - vytvor si účet
 
 ## Popis workshopu
 Zaujíma ťa, ako programátorky spolupracujú na veľkých softvérových projektoch?
