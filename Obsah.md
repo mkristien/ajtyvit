@@ -6,6 +6,7 @@
 - do tohoto súboru nižšie vlož link k tvojmu novému osobnému súboru
 
 Tu sú odkazy na súbory účastničiek kurzu:
+blablabla
 
 
 ## Zadanie 2
