@@ -13,3 +13,4 @@ Tu sú odkazy na súbory účastničiek kurzu:
 - pridaj do súboru riadok s tvojím menom
 - `git commit`, `git pull`, vyrieš konflikt
 
+Veronika Bla Bla
