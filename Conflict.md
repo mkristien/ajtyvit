@@ -4,3 +4,7 @@ V takom prípade git nevie ako má súbor vyzerať vo finálnej forme a potrebuj
 
 ## Pridaj svoje menu tu:
 koniec listu mien
+
+
+cdsacdsac
+cdsacdsaccds
