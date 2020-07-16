@@ -2,10 +2,10 @@
 
 Na workshope budeme používať viacero nástrojov:
 
-|Meno     |na čo?|
+|Meno     |na čo?|čo?
 |-|-|-|
-|GitHub   |hosťovanie vzdialeného úložiska|
-|GitKraken|práca s lokálnym úložiskom|
+|GitHub   |hosťovanie vzdialeného úložiska|online platforma, podobné s google-docs|
+|GitKraken|práca s lokálnym úložiskom|aplikácia v počítači|
 |email    |užívateľské ID na vytvorenie GitHub účtu, authorizácia|
 
 ## Ako si vytvoriť GitHub účet
