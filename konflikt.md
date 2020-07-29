@@ -1,3 +1,3 @@
 # Tu vytvorime konflikt
 
-Hello world!
+Hello cat!
