@@ -1,3 +1,3 @@
 # Tu vytvorime konflikt
 
-Hello dog!
+Hello Bratislava!
