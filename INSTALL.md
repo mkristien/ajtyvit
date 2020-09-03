@@ -15,8 +15,8 @@ Aby sme úložisko mohli načítať a zasahovať doň, potrebujeme viacero nást
 - choď na svoj email, aktivuj si GitHub účet cez aktivačný email
 
 ## Ako získať prístup k úložisku
-- pošli svoje GitHub meno lektorovi v chate
-- počkaj na pozívajúci email
+- pošli svoje GitHub meno lektorovi na `martin.kristien@gmail.com`
+- počkaj na email s pozvánkou k spoluprácií na úložisku
 - potvrď pozvánku k spoluprácií na úložisku
 
 ## Ako si nainštalovať GitKraken
