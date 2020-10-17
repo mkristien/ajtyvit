@@ -23,6 +23,6 @@ Aby sme úložisko mohli načítať a zasahovať doň, potrebujeme viacero nást
 - stiahni a nainštaluj [GitKraken GUI](https://www.gitkraken.com/)
 - prepoj si GitKraken s GitHub účtom
 - vyber si GitKraken meno a email, tieto údaje budú tvoriť podpis pod tvojimi príspevkami
-![cdsa](images/gitkraken_login.png)
-![cdsa](images/gitkraken_login_2.png)
-![cdsa](images/gitkraken_login_3.png)
+![cdsa](../images/gitkraken_login.png)
+![cdsa](../images/gitkraken_login_2.png)
+![cdsa](../images/gitkraken_login_3.png)

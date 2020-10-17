@@ -22,4 +22,4 @@ Martin študuje počítačovú vedu na Edinburghskej univerzite.
 Venuje sa hlavne nízko-úrovňovému systémovému programovaniu, ale zaujímajú ho aj oblasti dátovej vedy a umelej inteligencie.
 Popri štúdiu vyučuje, či už na univerzite alebo v rámci stredoškolských letných táborov [Akadémie Discover](https://discover.sk/).
 
-![A test](images/profile.jpg)
+![A test](../images/profile.jpg)
