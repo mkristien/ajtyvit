@@ -1,11 +1,6 @@
 # AjTyvIT - Git workshop
 Materiál na GIT workshop.
 
-## Čo treba nainštalovať
-- [Git Kraken](https://www.gitkraken.com/)
-    - vytvor si účet
-- vytvor si účet na [GitHub](https://github.com/)
-
 ## Popis workshopu
 Zaujíma ťa, ako programátorky spolupracujú na veľkých softvérových projektoch?
 Alebo by si len chcela zálohovať svoj kód niekde na cloude?
@@ -17,7 +12,6 @@ Git je populárny program/framework, ktorý sa používa na vývoj otvoreného s
 
 Na workshope si predstavíme základy práce s gitom.
 Po absolvovaní si budeš môcť vytvárať vlastné git projekty alebo spolupracovať na už existujúcich open-source projektoch.
-
 
 ## Obsah workshopu
 - čo je to "systém riadenia verzií" (version control system)?

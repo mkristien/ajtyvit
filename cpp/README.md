@@ -9,11 +9,17 @@ C++ patrí medzi najpopulárnejšia programovacie jazyky súčasnosti. Nájdete 
 
 Väčšina programovacích jazykov je sprostredkovaná a zjednodušená, pre pohodlie programátoriek. Naopak, C++ dovoľuje programátorkám presne špecifikovať, ako má aplikácia prebiehať. Práve táto úroveň kontroly dovoľuje C++ aplikáciám dosiahnuť sľubovaný výkon. Preto sa na kurze okrem programovania naučíme aj veľa o fungovaní počítača a operačného systému. K tomu pridáme základy používania terminálu, gitu, kompilátoru, a kopec menších zaujímavých tém.
 
-## Čo treba nainštalovať
-- [VisualStudioCode](https://code.visualstudio.com/)
-- [Cygwin](https://cygwin.com/install.html)
-    - c++
-    - makefile
-    - git
-    - nano
 
+## Obsah workshopu
+
+- čo je to "systém riadenia verzií" (version control system)?
+- pripojenie na git (ako začať)
+- základné operácie v gite (ako zdieľať kód s ostatnými)
+- riešenie konfliktov v gite (ako vzniká konflikt v kóde a ako ho vyriešiť)
+
+## O Lektorovi
+Martin študuje počítačovú vedu na Edinburghskej univerzite.
+Venuje sa hlavne nízko-úrovňovému systémovému programovaniu, ale zaujímajú ho aj oblasti dátovej vedy a umelej inteligencie.
+Popri štúdiu vyučuje, či už na univerzite alebo v rámci stredoškolských letných táborov [Akadémie Discover](https://discover.sk/).
+
+![A test](images/profile.jpg)
