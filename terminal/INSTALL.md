@@ -7,4 +7,5 @@ Stačí stiahnuť a spustiť súbor `setup-x86_64.exe` a preklikať sa cez inšt
 
 Po inštalácií by si mala byť schopná otvoriť terminálové okno `Cygwin64 Terminal` a napísať príkaz `echo "hello AjTyvIT"`.
 Príkaz sa spustí stlačením tračidla Enter.
+
 ![echo](../images/terminal_echo.jpg)
