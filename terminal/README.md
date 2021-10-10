@@ -1,20 +1,17 @@
-# AjTyvIT - Terminál workshop
+# Navigácia v Termináli - Ako pracovať na počítači bez myšky
 
 ## Popis workshopu
-Terminál je neodmysliteľný nástroj každej programátorky, ktorú zaujíma ...
+Terminál je neodmysliteľný nástroj každej programátorky, ktorá sa snaží zvýšiť svoju produktivitu a znalosti práce na svojom počítači. Nielenže terminál často ponúka rýchlejšie riešenie problémov oproti typickému klikania myšou, ale niektoré nástroje jednoducho nemajú žiadne grafické prostredie. Áno, terminál je výlučne textuálny. Preto budeme na workshope používať viacej klávesnicu ako myš. Navyše, keď si otvoríš terminál, ostatné spolužiačky si budú myslieť, že si hackerka.
 
-Useful contexts:
-- Highly configurable
-- remote work
-- compiled programs
+![meme](../images/terminal_meme.jpg)
 
 ## Obsah workshopu
-Počas workshopu sa budeme pohybovať najmä v prostredí operačného systému Linux. Budeme pouzivat anglictinu. Netreba ziadne zaklady, vsetko si vysvetlime.
+Počas workshopu sa budeme pohybovať najmä v prostredí operačného systému Linux. Budeme tiež používať veľa anglickej terminológie, no všetko si vysvetlíme, takže netreba mať vysokú znalosť angličtiny.
 
-Tieto veci sa naucime:
-- základné príkazy v terminály
+Po workshope budeš ovládať:
+- základné príkazy v termináli
 - narábanie so súbormi
-- práca na vzdialenom servery
+- pracovanie na vzdialenom serveri
 - sťahovanie a inštalácia programov z internetu
 
 ## O lektorovi
